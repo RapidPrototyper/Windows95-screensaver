@@ -1,5 +1,5 @@
 # Windows98-screensaver By Hinan
- ## A Unity project and reimplement the Windows98 screensaver with following points:
+ ## A Unity3d project and reimplement the Windows98 screensaver with following points:
  
  **1 -** pipes gradually fill a limited three-dimensional space without crossing each other.
  
