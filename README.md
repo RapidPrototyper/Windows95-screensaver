@@ -22,6 +22,8 @@
 
 **Scene Reloading:** A function to reload the scene is provided to reset everything and start over.
 
+
+
 > This script demonstrates procedural generation using Unity's capabilities, creating dynamic and visually interesting patterns with randomness and real-time updates.
 
 
