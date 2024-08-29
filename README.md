@@ -11,7 +11,7 @@
  
  For example, all bends could be represented by a sphere, and all straight parts of the pipes by a cube each.
 
-### Summary of the Process**
+### Summary of the Process 
 **Initialization:** Set initial direction, position, and color.
 
 **Pipe Generation:** The coroutine GeneratePipe handles the timed creation of segments, bends, and color changes. It also handles the logic to avoid overlapping positions and creates a dynamic, growing pipe.
@@ -21,6 +21,7 @@
 **Handling Overlaps:** If a segment’s position is already occupied, start a new pipe at a random position.
 
 **Scene Reloading:** A function to reload the scene is provided to reset everything and start over.
+
 
 
 
