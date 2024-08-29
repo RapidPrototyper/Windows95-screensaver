@@ -27,6 +27,7 @@
 
 > This script demonstrates procedural generation using Unity's capabilities, creating dynamic and visually interesting patterns with randomness and real-time updates.
 
+<img width="772" alt="ScreenShot" src="https://github.com/user-attachments/assets/5963e23f-68d4-4bb5-b401-6b999a0e7a80">
 
 
 
