@@ -14,6 +14,7 @@ public class PipeManager : MonoBehaviour
 
     private Vector3 currentDirection = Vector3.forward;   // Starting direction
     private Vector3 currentPosition = Vector3.zero;       // Starting position
+
     private HashSet<Vector3> occupiedPositions = new HashSet<Vector3>(); // To avoid overlapping
 
     private Color currentPipeColor; // Current color of the pipe
@@ -94,8 +95,9 @@ public class PipeManager : MonoBehaviour
 
 
 
-    public void Reload()
+    public void Reload() 
     {
+        //OnReload button Press:
         string currentSceneName = SceneManager.GetActiveScene().name;
         SceneManager.LoadScene(currentSceneName);
     }
